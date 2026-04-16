@@ -2,9 +2,8 @@
 
 ## Description / Descrição
 This project implements a function in C that swaps the values of two variables using pointers. Instead of returning values, the function directly modifies the variables through their memory addresses.
----
-Este projeto implementa uma função em C que realiza a troca de valores entre duas variáveis utilizando ponteiros. Em vez de retornar valores, a função modifica diretamente as variáveis através de seus endereços de memória.
 
+Este projeto implementa uma função em C que realiza a troca de valores entre duas variáveis utilizando ponteiros. Em vez de retornar valores, a função modifica diretamente as variáveis através de seus endereços de memória.
 
 ## Concepts Applied / Conceitos aplicados
 - Pointers (`*` and `&`)
@@ -18,7 +17,7 @@ Este projeto implementa uma função em C que realiza a troca de valores entre d
 
 ## How It Works / Como funciona
 The function receives the memory addresses of two variables and swaps their values using a temporary variable.
----
+
 A função recebe os endereços de memória de duas variáveis e realiza a troca de seus valores utilizando uma variável auxiliar.
 
 ## How to Compile and Run / Como compilar e executar
